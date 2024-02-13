@@ -15,3 +15,6 @@
 	merge = refs/heads/main
 [lfs]
 	repositoryformatversion = 0
+theme: jekyll-theme-minimal
+title: Harshil's homepage
+description: Bookmark this to keep an eye on my project updates!
